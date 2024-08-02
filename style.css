@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  background-color: rgb(194, 72, 72);
+  height: 50px;
+}
+ul li {
+  list-style-type: none;
+  display: inline;
+  color: white;
+  padding: 10px;
+}
